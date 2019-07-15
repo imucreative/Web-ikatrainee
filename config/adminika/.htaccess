@@ -1,0 +1,5 @@
+DirectoryIndex login.php
+
+Options All -Indexes
+
+IndexIgnore *.gif *.png
